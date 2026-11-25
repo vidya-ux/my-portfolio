@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{js,jsx,ts,tsx}'], theme: { extend: { colors: { void:'#050508', cyanGlow:'#67e8f9', violetGlow:'#a78bfa' } } }, plugins: [] };
